@@ -1,0 +1,3 @@
+[submodule "VerbaVault-UI"]
+	path = VerbaVault-UI
+	url = git@github.com:Jand-S/VerbaVault-UI.git

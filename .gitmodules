@@ -1,3 +1,6 @@
 [submodule "VerbaVault-UI"]
 	path = VerbaVault-UI
 	url = git@github.com:Jand-S/VerbaVault-UI.git
+[submodule "Auth-Service-VerbaVault"]
+	path = Auth-Service-VerbaVault
+	url = git@github.com:Jand-S/Auth-Service-VerbaVault.git
